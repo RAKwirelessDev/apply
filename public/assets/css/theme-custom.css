@@ -1,0 +1,6 @@
+.needs-validation.was-validated #orphan-feedback-locs.invalid-feedback {
+	display: block;
+}
+.needs-validation #orphan-feedback-locs.invalid-feedback {
+	display: none;
+}
